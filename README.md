@@ -54,25 +54,6 @@ what narrative emerges from the financial heartbeat?
 - Maintains technical precision
 - Practical for production use
 
-## 📁 Repository Structure
-
-```
-├── papers/
-│   ├── prompt_poetry_paper_english.md      # Full research paper (English)
-│   └── prompt_poetry_resumen_spanish.md    # Executive summary (Spanish)
-├── experiments/
-│   ├── prompts/                            # All 30 experimental prompts
-│   ├── outputs/                            # Complete AI responses
-│   └── evaluation/                         # Scoring data and analysis
-├── methodology/
-│   ├── evaluation_rubrics.md
-│   ├── statistical_analysis.R
-│   └── token_analysis.py
-└── examples/
-    ├── hybrid_prompt_templates.md
-    └── use_case_gallery.md
-```
-
 ## 🔬 Methodology
 
 - **Model:** Claude Sonnet 4.5
@@ -102,8 +83,7 @@ what narrative emerges from the financial heartbeat?
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/new-model-test`)
-3. Follow our [experimental protocol](methodology/protocol.md)
-4. Submit a Pull Request with results
+3. Submit a Pull Request with results
 
 ## 🧪 Research Roadmap
 
@@ -175,10 +155,9 @@ Built on decades of cognitive science:
 
 ## 🔗 Links
 
-- [Full Research Paper](papers/prompt_poetry_paper_english.md)
-- [Spanish Summary](papers/prompt_poetry_resumen_spanish.md)
+- [Full Research Paper](prompt_poetry_english.md)
+- [Spanish Summary](prompt_poetry_spanish.md)
 - [Axisdynamics Website](https://axisdynamics.cl)
-- [Methodology Details](methodology/)
 
 ---
 
